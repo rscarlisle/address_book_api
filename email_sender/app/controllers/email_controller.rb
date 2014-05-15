@@ -4,6 +4,6 @@ class EmailController < ApplicationController
   end
 
   def email
-    # TODO: send the email here.
+    typhoeus
   end
 end
